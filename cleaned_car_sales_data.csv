@@ -1,0 +1,530 @@
+Manufacturer,Automobile,Production,Sales,Sales_clean,Production_years
+AC Cars,AC 3000ME,1979–1984,107.0,107.0,6.0
+AC Cars,AC/Shelby Cobra,1961–2004,1003.0,1003.0,44.0
+AC Cars,AC 428,1965–1973,81.0,81.0,9.0
+Alfa Romeo,Alfa Romeo 75,1985–1992,386767.0,386767.0,8.0
+Alfa Romeo,Alfa Romeo Brera,2005–2010,21786.0,21786.0,6.0
+Alfa Romeo,Alfa Romeo GT,2003–2010,80832.0,80832.0,8.0
+Alfa Romeo,Alfa Romeo Montreal,1970–1977,3917.0,3917.0,8.0
+Alfa Romeo,Alfa Romeo Spider,1966–1993,124104.0,124104.0,28.0
+Alfa Romeo,Alfa Romeo SZ and RZ,1989–1991 1992–1994,1036.0,1036.0,3.0
+Alpine,Alpine A106,1955–1961,251.0,251.0,7.0
+Alpine,Alpine A108/Willys Interlagos,1958–1965,236.0,236.0,8.0
+Audi,Audi 80 and 90,1972–1996,4238247.0,4238247.0,25.0
+Audi,Audi Coupé/Quattro,1980–1996,248545.0,248545.0,17.0
+Audi,Audi A3,1996–present,3000000.0,3000000.0,31.0
+Audi,Audi A4,1994–2025,5000000.0,5000000.0,32.0
+Audi,Audi R8,2007–2024,50700.0,50700.0,18.0
+Audi,Audi A1,2010–present,100000.0,100000.0,17.0
+Audi,Audi A2,2000-2005,170000.0,170000.0,6.0
+Austin,Austin-Healey Sprite,1958–1971,129347.0,129347.0,14.0
+Unknown,BMC ADO16,1962–1974,"2,167,783 made under the brand names of Austin, Morris, MG, Riley, Vanden Plas and Wolseley.[40]",2167783.0,13.0
+Unknown,BMC ADO17,1964–1975,"387,283 made under the brand names of Austin, Morris, and Wolseley.[40]",387283.0,12.0
+Unknown,BMW 326,1936–1941 1946,"15,952 in a single generation, 15,936 built under pre-war BMW[45] and 16 post-war under EMW[46]",15952.0,6.0
+Unknown,BMW 328,1936–1940,464 in a single generation.[47],464.0,5.0
+Unknown,BMW 327,1937–1941 1946–1955,"2,470 in a single generation, 1,965 built under pre-war BMW[48] and 505 post-war under EMW.[46]",2470.0,5.0
+Unknown,BMW 507,1956–1959,253 in a single generation.[49],253.0,4.0
+Unknown,BMW 503,1956–1959,413 in a single generation.[50],413.0,4.0
+Unknown,BMW 3200 CS,1962–1965,603 in a single generation.[51],603.0,4.0
+Unknown,BMW New Class,1962–76,"1,191,728 over two generations.[52]",1191728.0,
+Unknown,BMW 2000C and 2000CS,1965–69,"13,691 in a single generation.[53]",13691.0,
+Unknown,BMW CS,1968–75,"30,546 in a single generation.[54]",30546.0,
+Unknown,BMW i3,2013–2022,"Over 220,000 through December 2021.[55]",220000.0,10.0
+Unknown,BMW i8,2014–2020,"20,448 in a single generation.[56]",20448.0,7.0
+Unknown,BMW M1,1978–81,"453 in a single generation, including 54 Procar racing cars.[57]",453.0,
+Unknown,BMW Z1,1989–91,"8,000 in a single generation.[58]",8000.0,
+Unknown,BMW Z8,1999–2003,"5,703 in a single generation.[59]",5703.0,5.0
+Unknown,BMW 3 Series,1975–present,"Over 9,500,000 in the first four generations to 2005. A further 2,147,247 sixth generation E90s were produced. The bestselling vehicle from a premium brand.",9500000.0,52.0
+Unknown,BMW 5 Series,1972–present,"Over 5,000,000 in the first five generations to 2009.[60]",5000000.0,55.0
+Unknown,BMW 8 Series,1989–99,"30,609 produced.[61]",30609.0,
+Unknown,BMW X5,1999–present,"1,000,000 in two generations up to June 2010.[62]",1000000.0,28.0
+Unknown,Bugatti Type 18,"1908, 1912–14",7 in a single generation[63],7.0,5.0
+Unknown,Bugatti Type 30,1922–26,About 600 in a single generation[64],600.0,
+Unknown,Bugatti Type 35,1925–29,"About 343 in a single generation, accounting for a total of 96 Type 35, 139 Type 35A, 50 Type 35C, 13 Type 35T, 45 Type 35B[65]",343.0,
+Unknown,Bugatti Type 37,1926–30,286 in a single generation.[66],286.0,
+Unknown,Bugatti Type 38,1926–27,385 in a single generation[67],385.0,
+Unknown,Bugatti Type 39,1925–27,15 in a single generation[68],15.0,
+Unknown,Bugatti Type 40,1926–30,Approximately 800 in a single generation[69],800.0,
+Unknown,Bugatti Type 41,1927–33,6 in a single generation.[70],6.0,
+Unknown,Bugatti Type 50,1931–33,65 in a single generation[71],65.0,
+Unknown,Bugatti Type 51,1931–34,40 in a single generation[72],40.0,
+Unknown,Bugatti Type 55,1932–35,38 in a single generation.[73][74][75],38.0,
+Unknown,Bugatti Type 57,1934–39,685 in a single generation[76],685.0,
+Unknown,Bugatti Type 101,1951–56,8 in a single generation.[77],8.0,
+Unknown,Bugatti EB110,1991–95,139 in a single generation.[78],139.0,
+Unknown,Bugatti Veyron,2005–2015,450 in a single generation.[79],450.0,11.0
+Unknown,Bugatti Chiron,2016–2023,500 in a single generation.[80],500.0,8.0
+Unknown,Buick Apollo,1973–75,"112,901 produced.[81]",112901.0,
+Unknown,Buick Centurion,1971–73,"110,809 built.[81]",110809.0,
+Unknown,Buick Electra,1959–90,"Approximately 3,170,000 produced over six generations including the 1980–1990 Electra Estate.[24][25]",3170000.0,
+Unknown,Buick Invicta,1959–63,"186,507 built over two generations.[81]",186507.0,
+Unknown,Buick LeSabre,1959–2005,"Buick's best selling and longest lasting nameplate; over 6,000,000 built over eight generations.[82]",6000000.0,47.0
+Unknown,Buick Riviera,1963–99,"1,127,261 built over eight generations.[83]",1127261.0,
+Unknown,Buick Special,1936–42 1946–69,"Approximately 3,890,000 built over nine generations.[24][84]",3890000.0,11.0
+Unknown,Buick Wildcat,1963–70,"492,040 produced over two generations.[81]",492040.0,
+Unknown,BYD e6,2010–present,"34,862 sold in China through December 2016.[85][86]",34862.0,17.0
+Unknown,BYD F3DM,2008–2013,"3,284 units in China through October 2013.[87][88][89]",3284.0,6.0
+Unknown,BYD Qin,2013–present,"68,655 in China through December 2016.[90]",68655.0,14.0
+Unknown,BYD Tang,2015–present,"49,780 in China through December 2016.[90]",49780.0,12.0
+Unknown,Cadillac Cimarron,1982–88,"132,499 in a single generation.",132499.0,
+Unknown,Cadillac Allanté,1986–93,"21,000 in a single generation.[91]",21000.0,
+Unknown,Cadillac De Ville,1959–2005,"Cadillac's best selling and longest running nameplate; approximately 3,870,000 in eight generations excluding early Series 62 hardtops, 1981–1988, 1991–93, and 2000–05. (Total production for 1981–1988, 1991–93 and 2000–05 is unknown but a good guess is over 1,300,000.)[24][25]",3870000.0,47.0
+Unknown,Cadillac ELR,2013–2016,"2,697 units in the United States through April 2016.[92][93][94]",2697.0,4.0
+Unknown,Checker Marathon,1961–82,"10,559 of a single generation not counting taxicabs and private sales for 1961–63, 1976 and 1980–82 (private sales for 1961–62, 1976 and 1980–82 are unknown).[24][25]",10559.0,
+Unknown,Chevrolet Camaro,1967–2002 2010–2024,"Almost 4,800,000 in five generations.[95]",4800000.0,36.0
+Unknown,Chevrolet Caprice,1966–96,"Approximately 4,630,000 in four generations excluding 1966–1968 and 1970–76 station wagons (1971–76 station wagons were built on a larger platform), all 1973 except for Caprice Classic, and 1994–96 sedans. (Total production for 1966–1968 and 1970 station wagons, all 1973 except for Caprice Classic and 1994–96 sedans is unknown but a good guess is over 800,000.)[24][25]",4630000.0,
+Unknown,Chevrolet Cavalier,1982–2005,"Estimated to be over 6,000,000 in three generations; 5,210,123 were sold up to 1999.[96]",6000000.0,24.0
+Unknown,Chevrolet Citation,1980–85,"1,642,587 produced in a single generation.[97]",1642587.0,
+Unknown,Chevrolet Corvair,1960–69,"1,835,170 in two generations.[98]",1835170.0,
+Unknown,Chevrolet Corvette,1953–present,"Chevrolet's longest lasting car nameplate; 1,302,401 over six generations not counting 2004 to present.[99] (2004 to present production is unknown.)",1302401.0,74.0
+Unknown,Chevrolet Cruze,2008–2023,4 million sold worldwide as of April 2016 over two generations.[100],4.0,16.0
+Unknown,Chevrolet Impala,1958–85 1994–96 2000–2020,"Chevrolet's best selling nameplate; over 13,000,000 built over nine generations not counting 2000 to present.[101] (Production for 2000 to present is unknown.); the bestselling car in America in a single year with 1,046,514 sold in 1965 including the Impala SS.[24]",13000000.0,37.0
+Unknown,Chevrolet Malibu,1964–1983 1997–2025,"As of the introduction of the ninth generation for the 2016 model year, General Motors announced that over 10,000,000 had been sold over the previous eight generations.[102]",2016.0,20.0
+Unknown,Chevrolet Monza,1975–80,"731,504 in a single generation[103]",731504.0,
+Unknown,Chevrolet Opala,1968–92,"A Brazilian Chevrolet's Icon, 1,000,000 built.",1000000.0,
+Unknown,Chevrolet Suburban,1935–present,"Chevrolet's longest lasting nameplate and the longest lasting nameplate in world history; approximately 1,510,000 in ten generations not counting vehicles sold to U.S. government (National Guard and CCC) prior to 1935, 1935–1965, 1975, 1985, 1994–95 and 2000 to present[104] (sales for 1935–1965, 1975, 1985, 1994–95 and 2000 to 2011 are unknown but a reasonable guess is about 1,600,000).",1510000.0,92.0
+Unknown,Chevrolet Vega,1971–77,"1,966,157 in a single generation[105]",1966157.0,
+Unknown,Chevrolet Volt,2010–2019,"Global cumulative sales of about 179,300 units through 2019,[106] plus about 10,000 rebadged variants sold as Opel/Vauxhall Ampera in Europe.[107]",179300.0,10.0
+Unknown,Chrysler Aspen Hybrid,October 2008 - November 2009,140 according to unconfirmed source.,140.0,2.0
+Unknown,Chrysler Newport,1961–81,"Chrysler's best selling nameplate; approximately 1,920,000 in five generations (excluding early Newport hardtops).[24][25]",1920000.0,
+Unknown,Chrysler TC by Maserati,1989–91,"7,300 in a single generation.[108]",7300.0,
+Unknown,Chrysler minivans,1984–present,"Over 11,000,000 over five generations and across three marques up to 2005; Chrysler (Town and Country, Voyager), Dodge (Caravan) and Plymouth (Voyager).[109]",11000000.0,43.0
+Unknown,Chrysler Town & Country,1990–2016,"Approximately 420,000 in five generations excluding 1999 to present and Town and Countries sold as part of earlier series. (Sales for 1999 to 2011 are unknown, although a reasonable guess is over 1,000,000.)[104]",420000.0,27.0
+Unknown,Citroën 2CV,1948–90,"3,872,583 in a single design; including commercial variants, the total figure is approximately nine million.[110]",3872583.0,
+Unknown,Citroën DS,1955–76,"1,455,746; sold 12,000 in a single day upon release at the 1955 Paris Motor Show.[111]",1455746.0,
+Unknown,Continental Mark II,1956–57,"3,012 of a single generation (only car produced by the short lived Continental division of the Ford Motor Company).[24]",3012.0,
+Unknown,Crosley,1939–42 1946–49,"62,210 built over one generation before introduction of series names in 1950 (does not include 1949 Hot Shot).[24][84]",62210.0,8.0
+Unknown,Daihatsu Copen,2002–12,"Over 56,000 within a single generation.[112][113]",56000.0,
+Unknown,DMC DeLorean,1981–82,"An estimated 9,200 over a single generation.[114]",9200.0,
+Unknown,De Tomaso Deauville,1970–1989,355.[115],355.0,20.0
+Unknown,De Tomaso Guarà,1993–2004,50 over a single generation including 10 to 12 barchettas and 4 spiders.[116],50.0,12.0
+Unknown,De Tomaso Longchamp,1972–89,409.[117],409.0,
+Unknown,De Tomaso Mangusta,1967–72,400 over a single generation.[118],400.0,
+Unknown,De Tomaso Pantera,1971–91,"7,260, best selling and longest running De Tomaso nameplate.[118][119]",7260.0,
+Unknown,De Tomaso Vallelunga,1964–1968,58 over a single generation including aluminum body prototypes and race cars.[120],58.0,5.0
+Unknown,DeSoto Custom,1939–42 1946–52,"DeSoto's best selling nameplate and, tied with the Deluxe, its longest lasting nameplate; approximately 570,000 in three generations.[24][84]",570000.0,8.0
+Unknown,Dodge Aries/Plymouth Reliant,1981–89,"Known as the 'K-cars' after their common platform; 972,216 in a single generation between the two marques.[121]",972216.0,
+Unknown,Dodge Coronet,1949–59 1965–76,"Dodge's best selling car nameplate and longest lasting American produced car nameplate; approximately 2,060,000 in six generations not counting 1949–53 4-doors, 1953 coupes, Dodge Chargers and Super Bees. (Production of 1949–53 4-doors and 1953 coupes is unknown but a reasonable guess is about 400,000 total.)[24][25]",2060000.0,17.0
+Unknown,Dodge Stealth,1991–96,"Badge engineered Mitsubishi 3000GT, 65,303 over a single generation.[122]",3000.0,
+Unknown,Dodge Viper,1992–2006 2008–2010 2012–2017 (2012–2014 as SRT),"28,056 over four generations at a rate of 12 per day up until 2 July 2010 when production ended.[123]",28056.0,15.0
+Unknown,Eagle Talon,1990–98,"Eagle's best selling car nameplate and longest lasting nameplate; approximately 200,000 over two generations.[124]",200000.0,
+Unknown,Edsel Bermuda,1958,"2,235 in one generation.[125]",2235.0,
+Unknown,Edsel Corsair,1958-59,"19,305 in one generation.[125]",19305.0,
+Unknown,Edsel Citation,1958,"9,299 in one generation.[125]",9299.0,
+Unknown,Edsel Pacer,1958,"20,988 in one generation.[125]",20988.0,
+Unknown,Edsel Ranger,1958–60,"Edsel's best selling nameplate and, tied with the Villager, its longest lasting nameplate; 50,803 built over two generations.[24]",50803.0,
+Unknown,Edsel Roundup,1958xh,963 in one generation.[125],963.0,
+Unknown,Edsel Villager,1958-60,"11,884 produced over two generations.[125]",11884.0,
+Unknown,Excalibur Series II,1970–82,"2,230 in one generation.[44]",2230.0,
+Unknown,Facel Vega FV/FVS/HK500,1954–1962,"893 in a single design. Accounting for 46 FV1, 152 FV2, 205 FV3 and FV4, 490 HK500.[19]",893.0,9.0
+Unknown,Facel Vega Excellence,1958–1964,152 in a single design[126],152.0,7.0
+Unknown,Facellia,1960–1964,"1,500 in a single design.[126]",1500.0,5.0
+Unknown,Facel II,1962–1964,184 in a single design.[19],184.0,3.0
+Unknown,Facel III,1963–1964,619 in a single design.[19],619.0,2.0
+Unknown,Facel Vega 6,1964,42 in a single design.[19],42.0,
+Unknown,Ferrari 166 MM,1948–53,"47 in a single generation,[127] including later MM/53 series.",47.0,
+Unknown,Ferrari 212 Inter,1951–52,78 in a single generation[128],78.0,
+Unknown,Ferrari 250 MM,1952–53,31 in a single generation[129] including 18 Berlinetta.[130],31.0,
+Unknown,Ferrari 250 GT Coupé,1954–60,"526 in four body designs. Europa GT: 35,[131] Boano Coupé: 88,[132] Ellena Coupé: 50[133] and Pinin Farina Coupé: 353.[134]",526.0,
+Unknown,"Ferrari 250 GT Berlinetta ""Tour de France"" [it]",1956–59,"84 in a single generation with 4 minor variations; accounting for 14 Series I, 9 Series II, 17 Series III and 37 Series IV.[135] Also inclusive are 7 Interims.[136]",84.0,
+Unknown,Ferrari 250 GT Berlinetta SWB [it],1959–63,167 in a single generation[137][138],167.0,
+Unknown,Ferrari 250 GT 2+2 [it],1960–63,957 in a single generation with three series.[139],957.0,
+Unknown,Ferrari 250 GTO,1962–64,"36 in two single body designs, accounting for 33 Series I[140] and 3 Series II[141]",36.0,
+Unknown,Ferrari 250 GT Lusso,1962–64,351[142],351.0,
+Unknown,Ferrari 275,1964–68,"930 accounting for 200 GTS[143] and 730 GTBs[144] including 4 Competizione Speciale, 330 275 GTB/4 Berlinettas,[130] 10 275 GTB/C[145]",930.0,
+Unknown,Ferrari 330 GT 2+2 [it],1964–67,"1,099[146][147]",1099.0,
+Unknown,Ferrari 250 LM [it],1964–65,32 in a single generation[130],32.0,
+Unknown,Ferrari 330 GTC and GTS [it],1964–67,698,698.0,
+Unknown,Dino 206 GT and 246 GT,1966–74,"3,569, in two generations. 152 206 Dino GT and 2,295 246 GTs and 1,274 246 GTSs.[130]",3569.0,
+Unknown,Ferrari 365 GT 2+2 [it],1967–71,801[147],801.0,
+Unknown,Ferrari 365 GTC and GTS [it],1968–70,188[147],188.0,
+Unknown,Ferrari 365 GTB/4 and GTS/4,1968–73,"1,405 in a single generation, 1,383 hard top 365 GTB/4 and 122 soft top 365 GTS/4.[148]",1405.0,
+Unknown,Ferrari 512S,1970,"25 chassis as per regulation; however, some were used as spares. Many of these became converted into 512M for the 1971 season and one as 712P.[149]",25.0,
+Unknown,Ferrari 365 GTC/4,1971–72,505[147],505.0,
+Unknown,"Ferrari 365 GT4 2+2, 400 and 412",1972–89,2907[147] Longest Ferrari in production.,2907.0,
+Unknown,Dino/Ferrari 208 and 308 GT4,1973–80,"2,826 308s and 840 208s in a single generation. Held Dino branding until 1976.[150]",2826.0,
+Unknown,Ferrari BB,1973–84,"2,261 in one single body design, accounts for a total of 327 365 GT4 BB, 927 BB 512 and 1007 BB 512i.[151]",2261.0,
+Unknown,Ferrari 308 GTB and GTS,1975–85,"7,412 coupés and targa tops.[152] Accounting for 712 glassfiber GTBs, 2,897 steel GTBs and 3,219 GTSs; 494 GTBi and 1,749 GTSi; 3,042 GTB QVs and 748 GTS QVs.[153][154][155]",7412.0,
+Unknown,Ferrari Mondial,1980–93,"6,884.[156] Accounting for 703 Mondial 8s, 1,145 Mondial QV coupes and 629 Cabriolets, 987 Mondial 3.2 coupes and 810 Cabs, 858 Mondial t coupes and 1,017 Cabs.[157]",6884.0,
+Unknown,Ferrari Testarossa,1984–96,"9,957 in three generations, accounting for 2,280 512 TRs and 500 F512 Ms.[158][159][160][161][162]",9957.0,
+Unknown,Ferrari 288 GTO,1984–87,"278, 272 standard version[163] plus 6 Evoluzione variant.[164]",278.0,
+Unknown,Ferrari 328,1985–89,"7,412; 1,344 GTBs and 6,068 GTSs[165]",7412.0,
+Unknown,Ferrari F40,1987–93,"1,311[166] standard variant",1311.0,
+Unknown,Ferrari 348,1989–95,"8,844.[167] 3,116 berlinettas, 4,446 targas, 1,146 Spiders and 100 Serie Speciales",8844.0,
+Unknown,Ferrari 456,1992–2003,"3,289 over two generations.[168]",3289.0,12.0
+Unknown,Ferrari 333 SP,1994–2001,39 produced[169],39.0,8.0
+Unknown,Ferrari F355,1994–99,"11,273 coupés, convertibles and targa tops.[170]",11273.0,
+Unknown,Ferrari F50,1995–97,"374 in total, 368[171] standard road cars (349 claimed)[172] plus 6 F50 GT (including 3 complete cars).[173]",374.0,
+Unknown,Ferrari 550 Maranello,1996–2001,"3,083 coupés and 448 convertibles.[168]",3083.0,6.0
+Unknown,Ferrari 575M Maranello,2002–2006,"2,064 coupés and 559 convertibles.[174]",2064.0,5.0
+Unknown,Ferrari 360,1999–2004,"Bestselling Ferrari in history; 17,653 coupés and convertibles.[175]",17653.0,6.0
+Unknown,Enzo Ferrari,2002–2004,"400 in one single generation, includes P4/5 (formerly, another Enzo) but not FXX and Maserati MC12 variants.[176]",400.0,3.0
+Unknown,Ferrari 612 Scaglietti,2004–2011,"3,025 in a single generation.[177]",3025.0,8.0
+Unknown,Ferrari F430,2004–2009,"(estimated) 17,499 in a single generation. Source accounts for 15,000 Berlinettas and Spiders, but only around 2,000 Scuderias and a claimed 499 16Ms[178]",17499.0,6.0
+Unknown,Ferrari 599,2006–2012,"(estimated) 4,279 in a single generation with an estimated 3,600 599 GTB and 599 599 GTO and 80 599 Aperta.[179]",4279.0,7.0
+Unknown,Ferrari 458,2009–2015,"(unofficial estimate) 24,649 in a single generation. Source accounts for 15,000 Italias, 6,000 Spiders, 3,000 Speciales, 499 Speciale As and 150 Challenges.[180][181]",24649.0,7.0
+Unknown,Ferrari FF,2011–2016,"2,291 in a single generation with 800 in its first year of production.[182][183]",2291.0,6.0
+Unknown,Ferrari F12,2012–2017,"(estimated) 4,499 in a single generation with an estimate of 3,700 F12berlinetta and 799 F12tdf.[184]",4499.0,6.0
+Unknown,LaFerrari,2013–2018,"710 in a single generation, not including FXX-K.[185]",710.0,6.0
+Unknown,Fiat 124,1966–1974,"Nearly 20,000,000, including foreign production.",20000000.0,9.0
+Unknown,Fiat 126,1973–2000,"4,671,586, including versions built in Poland.[186]",4671586.0,28.0
+Unknown,Fiat 127,1971–83,"Fiat's first supermini, 3,730,000, not including sales of licensed or derivative versions by SEAT and Zastava.[187]",3730000.0,
+Unknown,Fiat 500,1957–75,"Known as the Nuova to distinguish it from the earlier Topolino; 4,250,000 in a single design, including license built examples.",4250000.0,
+Unknown,Fiat Panda,1980–present,"over 6,500,000 in the first two generations (still produced).[188]",6500000.0,47.0
+Unknown,Fiat Punto,1993–2018,"Over 8,500,000 as of February 2012.[189]",8500000.0,26.0
+Unknown,Fiat Uno,1983–2021,"Approximately 8,800,000 worldwide to 2004 divided in 3 generations;[190] sold over six million in Europe before being replaced by the Punto in 1995.[191] Eighth best selling automobile platform in history.",8800000.0,39.0
+Unknown,Fiat X1/9,1972–89,"160,000 in a single design.[192]",160000.0,
+Unknown,Fiat 131,1974–84,"1,513,800 sold over three generations (not including examples built under licence in other countries).[193]",1513800.0,
+Unknown,Fisker Karma,2011–2012,"2,450 in a single design.[194]",2450.0,2.0
+Unknown,Fisker Ocean,2022–2024,"Approximately 11,193[195][196] were built before production ceased in March 2024.[197] Fisker claimed to have over 65,000 reservations in February 2023,[198] with over 40,000 of those reportedly cancelled.[199]",11193.0,3.0
+Unknown,Ford Aerostar,1986–97,"2,029,577 in two generations.[200]",2029577.0,
+Unknown,Ford CE14 platform,1981–90,"Approximately 4,170,000 over two marques not counting the longer wheelbased Ford Tempo and Mercury Topaz.[25]",4170000.0,
+Unknown,Ford Cortina,1962–82,"Over 4,300,000 in five generations.[201]",4300000.0,
+Unknown,Ford Crown Victoria,1992–2011,"Approximately 760,000 over two generations not counting earlier Crown Victorias part of other Ford series and not counting 1999–2011. (Production over 1999–2011 is unknown but a good guess would place it at about 900,000.)[25]",760000.0,20.0
+Unknown,Ford D186 platform,1986–95,"Approximately 4,570,000 over two marques excluding Lincoln Continental.[25]",4570000.0,
+Unknown,Ford E-Series,1961–2014,"Formerly known as the Econoline; over 5,000,000.[202]",5000000.0,54.0
+Unknown,Ford Escort/(North America),1968–2003,"Almost 20,000,000 worldwide across several platforms and generations; Ford's bestselling car nameplate.[203]",20000000.0,36.0
+Unknown,Ford Explorer,1990–present,"Over 8,226,911 in seven generations.[204]",8226911.0,37.0
+Unknown,Ford F-Series,1948–present,"Ford's longest running nameplate. Best-selling vehicle in the United States for the past 32 years.[205] As of June 2013, over 33,000,000 sold in 12 generations.[206]",32.0,79.0
+Unknown,Ford Falcon,1960–2016,"Over 3,000,000 in six generations to 2003, almost exclusively in Australia and New Zealand.[207]",3000000.0,57.0
+Unknown,Ford Fiesta,1976–2023,"Over 15,000,000 in seven generations.[208]",15000000.0,48.0
+Unknown,Ford Fiesta,1976–89,"Approximately 5,250,000.[209]",5250000.0,
+Unknown,Ford Focus,1998–present,"Over 16,000,000 in three generations.[210]",16000000.0,29.0
+Unknown,Ford Granada (North America),1975–82,"2,066,336 in two generations.[211]",2066336.0,
+Unknown,Ford GT,2005–06,"4,038 in one generation.[212]",4038.0,
+Unknown,Ford LTD,1967–86,"Approximately 5,530,000 produced over four generations.[24][25]",5530000.0,
+Unknown,Ford Model A,1927–31,"4,320,446 sales for the successor to the Ford Model T.[213]",4320446.0,
+Unknown,Ford Model T,1908–27,"16,500,000; the second bestselling single design, and the first to sell five, ten and fifteen million cars.[202]",16500000.0,
+Unknown,Ford Mustang,1964–present,"Over 9,000,000 in five generations. Mustang is Ford Motor Company's longest-running car nameplate. It was introduced on 17 April 1964 at the New York World's Fair.[214]",9000000.0,63.0
+Unknown,Ford Puma,1997–2001,"Over 130,000 in a single generation.",130000.0,5.0
+Unknown,Ford Ranchero,1957–79,"508,355 produced.[215]",508355.0,
+Unknown,Ford Ranger,1983–2011 2018–present,"Over 7,000,000 through January 2010.[202][216]",7000000.0,29.0
+Unknown,Ford Ranger (T6),2011–present,"63,000 sold in first half of 2017 in Asia Pacific.",63000.0,16.0
+Unknown,Ford RS200,1984–86,225.[217],225.0,
+Unknown,Ford Sierra,1982–93,"2,700,500 in two generations.[citation needed]",2700500.0,
+Unknown,Ford Taurus,1986–2019,"7,519,919 in the first four generations through 2007.[218]",7519919.0,34.0
+Unknown,Ford Tempo,1984–94,"2,732,542.[219]",2732542.0,
+Unknown,Ford Thunderbird,"1955–97, 2002–05","4,438,106 across eleven generations.[220]",4438106.0,48.0
+Unknown,Ford Transit,1965–present,"6,000,000 across seven generations.[221]",6000000.0,62.0
+Unknown,Frazer Standard,1947–51,"Frazer's best selling nameplate; approximately 90,000 in one generation.[24]",90000.0,
+Unknown,FSO Polonez,1978–2002,"1,061,807 three generations of Polish car produced in Fabryka Samochodów Osobowych in Warsaw and in 3 other countries.[222]",1061807.0,25.0
+Unknown,GM A platform,1949–54,"Approximately 7,970,000 over two marques not counting 1949–51 Pontiac Chieftains.(Production of 1949–51 Pontiac Chieftains is unknown but a reasonable guess is about 350,000.)[24] Tenth best selling automobile platform in history.",7970000.0,
+Unknown,GM A platform,1955–57,"Approximately 6,070,000 over two marques.[24]",6070000.0,
+Unknown,GM A platform,1973–77,"Approximately 5,740,000 across four marques.[24]",5740000.0,
+Unknown,GM B platform,1961–64,"Approximately 9,010,000 across four marques.[24] Sixth best selling automobile platform in history.",9010000.0,
+Unknown,GM B platform,1965–70,"Approximately 12,960,000 across four marques not counting 1966 full-size Chevrolet station wagons (Production of 1966 full-size Chevrolet station wagons is unknown but a good guess is about 150,000).[24] Fourth best selling automobile platform after the Volkswagen Beetle, Ford Model T and the Lada Riva.",12960000.0,
+Unknown,GM B platform,1971–76,"Approximately 6,010,000 across four marques not counting full-size station wagons and 1973 Chevrolets. (Production of 1973 full-size Chevrolets is unknown but a good guess is about 800,000 excluding station wagons.)[24][25]",6010000.0,
+Unknown,GM B platform,1977–90,"Approximately 8,960,000 across four marques.[25] Seventh best selling automobile platform in history.",8960000.0,
+Unknown,GM B platform,1991–96,"Approximately 780,000 across three marques.[25]",780000.0,
+Unknown,GM D platform,1993–96,"Approximately 100,000.[25]",100000.0,
+Unknown,GM J platform,1981–97,"Approximately 10,150,000 across eleven marques on six continents, not counting Daewoo Espero sales.[25][223][224][225] Fifth best selling automobile platform in history.",10150000.0,
+Unknown,GM W platform,1988–2001,"Approximately 5,140,000 across four marques not counting 1994 Chevrolet Lumina coupes, 1999–2001 Chevrolet Luminas and 1999 Chevrolet Monte Carlos. (Total production of 1994 Chevrolet Lumina coupes, 1999–2001 Chevrolet Luminas and 1999 Chevrolet Monte Carlos is unknown but a reasonable guess is about 600,000.)[25]",5140000.0,14.0
+Unknown,Henry J Deluxe,1951,"43,400 of a single generation.[24]",43400.0,
+Unknown,Hindustan Ambassador,1958–2014,"Indian-built version of the Morris Oxford; almost 4,000,000 in a single generation to 2004.[226]",4000000.0,57.0
+Unknown,Holden Commodore,1978–2020,"2,500,000 in the first four generations up to 2008.[227]",2500000.0,43.0
+Unknown,Honda Accord,1976–present,"Over 8,000,000 of the first six generations up to 2002 in North America, not including global sales elsewhere.[228]",8000000.0,51.0
+Unknown,Honda Beat,1991–1996,"Over 33,677 in a single generation[229][230]",33677.0,6.0
+Unknown,Honda Civic,1972–present,"Over 16,500,000 in eight generations.[231]",16500000.0,55.0
+Unknown,Honda CR-V,1996–present,"Approximately 2,500,000 to September 2006, claims to be the bestselling ""entry level crossover SUV"".[232]",2500000.0,31.0
+Unknown,Honda Fit,2001–present,"Reached 3,500,000 at the end of September 2010., sold in some markets as the Honda Jazz;[233] the bestselling car in Japan, and the first in that country to outsell the Toyota Corolla since 1969.[234]",3500000.0,26.0
+Unknown,Honda NSX,1990–2005,"18,531 a single generation.[235]",18531.0,16.0
+Unknown,Honda Prelude,1978–2001,"264,842 for first,[236] 623,620 for second and 637,132 for third generation.[237] Total of 826,082 was exported to the United States over five generations.[238]",264842.0,24.0
+Unknown,Honda S600,1964–66,"13,084; 11,284 convertibles and 1,800 coupes in three years of production.[239]",13084.0,
+Unknown,Honda S500,1963–64,"1,363 during eleven months of production.[239]",1363.0,
+Unknown,Honda S800,1966–70,"11,536 from its introduction in 1966 until production ceased in May 1970.[239]",11536.0,
+Unknown,Honda S2000,1999–2009,"112,631 over a single generation.[240][241][242][243][244][245][246][247][248][249][250][251][252][253]",112631.0,11.0
+Unknown,Hudson Super,1916–26 1940–42 1946–50,"Hudson's best selling nameplate; approximately 600,000 built over five generations not counting 1916–17 and 1940–42. (Production for 1916–17 and 1940–42 is unknown but a reasonable guess is about 80,000.)[24][84]",600000.0,25.0
+Unknown,Hyundai Elantra,1990–present,"over 10,000,000 in five generations to 2014. Became the 10th nameplate to reach that milestone. Called also ""Avante""[254]",10000000.0,37.0
+Unknown,Hyundai Accent,1994–present,"over 5,000,000 in three generations to 2001. Called also ""Verna""[255][256]",5000000.0,33.0
+Unknown,Hyundai Sonata,1985–present,"5,000,000 in six generations to 2010.[255][256]",5000000.0,42.0
+Unknown,Imperial Crown,1957–70,"Imperial's best selling nameplate. Approximately 127,000 sold over three generations.[24]",127000.0,
+Unknown,Iso/BMW/VELAM/Romi Isetta,1953–61,"161,728 including licensed variations by BMW, VELAM and Romi. Best selling single cylinder car.[257]",161728.0,
+Unknown,Jaguar XK120,1948–53,"12,064 in a single generation.[258]",12064.0,
+Unknown,Jaguar C-Type,1950–53,54 in a single generation.[258],54.0,
+Unknown,Jaguar D-Type,1954–56,"87 in a single generation, also accounts for 16 Jaguar XKSS.[259]",87.0,
+Unknown,Jaguar Mark 1,1955–1959,"37,397 in a single generation.[260]",37397.0,5.0
+Unknown,Jaguar XK150,1957–61,"83,976 in a single generation.[261]",83976.0,
+Unknown,Jaguar Mark 2,1959–67,"9,385 in a single generation.[262]",9385.0,
+Unknown,Jaguar E-Type,1961–74,"72,529 in a single generation.[263]",72529.0,
+Unknown,Jaguar XJ,1968–2019,"800,000 to 2005.[264]",800000.0,52.0
+Unknown,Jaguar XJS,1975–96,"115,413 in two generations.[265]",115413.0,
+Unknown,Jaguar XJR-15,1991,50 in a single generation.[266],50.0,
+Unknown,Jaguar XJ220,1992–94,275 in a single generation.[267],275.0,
+Unknown,Jaguar XK,1996–2015,"209,340 to 2010, accounting for 84,958 XK8 (1996–2004)[268] and 124,382 Jaguar XK up to 2010.[269]",209340.0,20.0
+Unknown,Jaguar X-Type,2001–2009,"360,405 in a single generation.[270]",360405.0,9.0
+Unknown,Jaguar XF,2009–,"202,700 to 2016.[271]",202700.0,
+Unknown,Jeep Cherokee (XJ),1984–2014,"2,884,172 in North America until 2001; production continued in China until 2014.[272]",2884172.0,31.0
+Unknown,Jeep CJ,1944–86,"Approximately 1,810,000 in seven generations and under three corporate parents.[104]",1810000.0,
+Unknown,Jeep Wrangler,"YJ:1987–95, TJ:1997–2006, JK:2007-present","Approximately 2,700,000+ in three generations with YJ production approximately 557,000 units; TJ production approximately 965,000 units and Total production of the JK from 2007–present is known to exceed 1,000,000 units as of May 2013).[273][274]",2700000.0,11.0
+Unknown,Jeep Cherokee (KL),2013–2023,Approximately 860.000+ built as off 2017[275],860.0,11.0
+Unknown,Jeep Renegade,2014–present,Approximately 709.000+ models built as of 2017[276],709.0,13.0
+Unknown,Jeep Compass,"First Generation - 2006–2017, Second Generation - 2017–present",Approximately 730.000+ were built in 2 generations[276],730.0,12.0
+Unknown,Jensen Interceptor,"1950-57, 1966–76","Total of 6,496 produced over two generations.[39]",6496.0,17.0
+Unknown,Kaiser Deluxe,1949–53,"Kaiser's best selling nameplate; approximately 130,000 built over two generations.[24]",130000.0,
+Unknown,Lada Riva,1980–2013,"13,500,000 until exports to Europe were discontinued in 1997; the third bestselling single design. Including production up to the present in both Russia and Egypt, the total is 20,000,000 units.[277]",13500000.0,34.0
+Unknown,La Marquise,1884,"1.[278] Sold to a French army officer, Henri Doriol, in 1906.[278]",1.0,
+Unknown,"Lagonda 11, 11.9, 12 and 12/24",1913–26,"over 6,000.[279]",6000.0,
+Unknown,Lagonda 14/60 and 2-litre Speed,1925–33,1440.[279],1440.0,
+Unknown,Lagonda 16/65,1926–30,250.[279],250.0,
+Unknown,Lagonda 3-litre,1928–34,570.[279],570.0,
+Unknown,Lagonda 16/80,1928–34,260.[279],260.0,
+Unknown,Lagonda Rapier,1933–38,"over 515, includes 45 built by Rapier Cars.[280]",515.0,
+Unknown,Lagonda M45,1935,"463, includes 53 M45R Rapide[280]",463.0,
+Unknown,Lagonda 3.5-litre,1935,65.[280],65.0,
+Unknown,Lagonda LG45,1936–37,"303, including 25 Rapides.[280]",303.0,
+Unknown,Lagonda LG6,1938–40,85.[280],85.0,
+Unknown,Lagonda V12,1938–40,189.[280],189.0,
+Unknown,Lagonda 2.6-Litre,1948–53,510.[281],510.0,
+Unknown,Lagonda 3-Litre,1953–58,270.[281],270.0,
+Unknown,Lagonda Rapide,1961–64,55.[281],55.0,
+Unknown,Lagonda Taraf,2015–16,120.[282],120.0,
+Unknown,Lamborghini 350GT,1964–66,135 built.[283][284],135.0,
+Unknown,Lamborghini 400GT,1966–68,247 built.[285],247.0,
+Unknown,Lamborghini Aventador,2011–22,"11,465[286] with the first 1,000 Aventadors being built in 15 months.[287]",11465.0,
+Unknown,Lamborghini Countach,1974–1990,"2,042 of all variations, Lamborghini's longest-running nameplate.[288][289][290][291][292]",2042.0,17.0
+Unknown,Lamborghini Diablo,1990–2001,"2,903 built.[293]",2903.0,12.0
+Unknown,Lamborghini Espada,1968–78,"1,217 built.[294]",1217.0,
+Unknown,Lamborghini Gallardo,2004–13,"Formerly bestselling Lamborghini in history; 14,022 coupés and convertibles.[295]",14022.0,
+Unknown,Lamborghini Huracán,2014–present,"Formerly bestselling Lamborghini in history; 20,000th built in April 2022.[296]",20000.0,13.0
+Unknown,Lamborghini Islero,1968–69,225.[294],225.0,
+Unknown,Lamborghini Jalpa,1981–88,410.[297],410.0,
+Unknown,Lamborghini Jarama,1970–76,327.[294],327.0,
+Unknown,Lamborghini LM002,1986–93,328 built.[294],328.0,
+Unknown,Lamborghini Miura,1966–72,764 built.[298],764.0,
+Unknown,Lamborghini Murciélago,2001–10,"4,099 built.[299]",4099.0,
+Unknown,Lamborghini Reventón,2007–09,20 built.[300],20.0,
+Unknown,Lamborghini Silhouette,1976–79,54.[301],54.0,
+Unknown,Lamborghini Urraco,1973–79,710.[302][303],710.0,
+Unknown,Lamborghini Urus,2018–present,"Bestselling Lamborghini in history; 20,000th in June 2022[304]",20000.0,9.0
+Unknown,Lancia Stratos,1972–74,495 in a single generation.[305],495.0,
+Unknown,Lancia Montecarlo,1975–1978 1980–1981,"7,798 in a single generation including 220 037 variants.[306]",7798.0,4.0
+Unknown,Lancia Dedra,1989–2000,"418,084 in a single generation.[307]",418084.0,12.0
+Unknown,Lancia Ypsilon,1996–present,"over 870,000 to 2005.[308]",870000.0,31.0
+Unknown,Land Rover Series/Defender,1948–2015,"over 2,000,000 (approx)[309]",2000000.0,68.0
+Unknown,Land Rover Discovery,1989–present,"353,614 to 2015[310]",353614.0,38.0
+Unknown,Land Rover Freelander,1997–2015,"310,619 to 2015[311]",310619.0,19.0
+Unknown,Land Rover Discovery Sport,2014–present,"413,642 to 2019[312][313]",413642.0,13.0
+Unknown,Land Rover Range Rover,1970–present,"1,000,000 in 3 generations[314]",1000000.0,57.0
+Unknown,Range Rover Evoque,2011–present,"883,119 to 2019[315]",883119.0,16.0
+Unknown,Range Rover Sport,2004–present,"747,569 to 2019[316][317]",747569.0,23.0
+Unknown,Lexus CT,2011–2022,"380,000 to March 2022.[318]",380000.0,12.0
+Unknown,Lexus LFA,2010–2012,500 in a single generation[319],500.0,3.0
+Unknown,Light Car Company Rocket,1991–1998,55 in a single generation.[320],55.0,8.0
+Unknown,Lincoln Continental,1940–42 1946–48 1958–2002 2016–2020,"Lincoln's longest running nameplate; approximately 1,600,000 in nine generations not counting 1969 and later Lincoln Mark series and 1999–2002. (Production of 1999–2002 is unknown but a reasonable guess is about 120,000.)[24][25][84]",1600000.0,7.0
+Unknown,Lincoln Town Car,1981–2011,"Lincoln's bestselling nameplate; approximately 2,290,000 in three generations not counting 2005–2011. (Production of 2005–2011 is unknown but a reasonable guess is about 160,000.)[25][321]",2290000.0,31.0
+Unknown,Lincoln Versailles,1977–80,"50,156 in a single generation.[211]",50156.0,
+Unknown,Lola T70,"1965–70, 1980, 2007",Over 100 three different versions.[322],100.0,16.0
+Unknown,Lotus Elise,1996–2021,"Lotus Cars' bestseller; 20,000 in two generations to December 2004.[323]",20000.0,26.0
+Unknown,McLaren F1,1993–98,106 in a single generation.[324],106.0,
+Unknown,McLaren P1,2013–15,"Variation of the 12C, 375 in a single generation.[325]",12.0,
+Unknown,McLaren 12C,2011–2014,1000th sold by June 2012 in its first year of production.[326] Best selling McLaren.,1000.0,4.0
+Unknown,Maruti 800,1984–2010,"Rebadged Suzuki Alto, and the bestselling car in India; 2,400,000 of a single generation.[327]",2400000.0,27.0
+Unknown,Maserati Biturbo,1981–1994,"Over 38,000 over a single generation. Best selling Maserati.[328]",38000.0,14.0
+Unknown,Maserati 3200 GT,1998–2002,"4,795 in a single generation.[329]",4795.0,5.0
+Unknown,Maserati Coupé and Spyder,2001–2007,"Total 13,423 in a single generation,[330] including Spyder: 3,889, Coupé: 6,449, GranSport: 2,613 and GranSport Spyder: 472.",13423.0,7.0
+Unknown,Maserati MC12,2004–05,"Variation of the Enzo Ferrari. 62 in a single generation, figure include 50 road cars, 5 development cars, 12 Corse,[331] 10 GT-1[332][333][334]",62.0,
+Unknown,Maserati GranTurismo,2007–2019,"28,805 GranTurismos and 11,715 GranCabrios in a single generation.[335]",28805.0,13.0
+Unknown,Maybach 57 and 62,2002–13,"3,000 estimated in a single generation.[336]",3000.0,
+Unknown,Matra Rancho,1977–1984,"57,792 sold over a single generation.[337]",57792.0,8.0
+Unknown,Mazda 3,2003–present,"Mazda's fastest ever seller, 4,000,000 build from 2003 – 2014; known as the Mazda Axela in the Japanese domestic market.[338]",4000000.0,24.0
+Unknown,Mazda 6,2002–present,"Mazda's previous fastest seller; 3,000,000 in twelve years. 1,945,850 in first generation. 718,882 in second generation[339]",3000000.0,25.0
+Unknown,Mazda Familia,1963–2003,"Also badged as the Protegé and 323; over 10,000,000 in the first eight generations to 1995.[340]",323.0,41.0
+Unknown,Mazda MPV,1988–2016,"1,000,000 in three generations.[339]",1000000.0,29.0
+Unknown,Mazda MX-5,1989–present,"Also known as the Miata and Eunos Roadster; almost 750,000 in the first two generations to 2005, verified by the Guinness Book of Records as the bestselling two-seater sports car in history.[341]",750000.0,38.0
+Unknown,Mazda R360,1960–1966,"23,417 in a single generation.[342]",23417.0,7.0
+Unknown,Mazda RX-7,1978–2002,"811,634; bestselling rotary-engined car in history.[343]",811634.0,25.0
+Unknown,Mazda RX-8,2003–2012,"192,094.[344]",192094.0,10.0
+Unknown,"Mercedes-Benz Type 300 ""Adenauer""",1951-1957 1958-1962,"15,332 across two generations (W186 and W189).",15332.0,7.0
+Unknown,Mercedes-Benz 600,1963-1981,"2,677 in a single generation. 428 Pullman limousines and 59 Landaulet convertible sedans.",2677.0,19.0
+Unknown,Mercedes-Benz C-Class,1993–present,"6,900,000 to November 2006[345]",6900000.0,34.0
+Unknown,Mercedes-Benz CLK GTR,1997–1999,"35 in a single generation. Accounting for 25 road cars, 6 convertibles, 2 prototypes and 7 race cars.[346]",35.0,3.0
+Unknown,Mercedes-Benz G-Class,1979–present,"400,000th unit was built on 4 December 2020.[347]",400000.0,48.0
+Unknown,Mercedes-Benz SLR McLaren,2003–2010,"1,150 in a single generation.[348]",1150.0,8.0
+Unknown,Mercedes-Benz S-Class,1965–present,"Approximately 4,000,000 of the first five generations to 2006 since the Mercedes-Benz W108.[345]",4000000.0,62.0
+Unknown,Mercedes-Benz SL-Class,"1954–2020, 2022–present","Over 600,000 produced over five generations to 2008.[349]",600000.0,67.0
+Unknown,Mercedes-Benz W123,1975–86,"2,696,915 in a single generation. Best selling Mercedes type ever.",2696915.0,
+Unknown,Mercedes-Benz W201,1983–93,"Known as the Mercedes 190; 1,879,629 in a single generation.[350]",190.0,
+Unknown,Mercedes-AMG GT,2014–,"11,305 in a single generation[351]",11305.0,
+Unknown,Mercury Bobcat,1974-1980,"224,026 in a single generation.",224026.0,7.0
+Unknown,Mercury Colony Park,1957-1991,"Produced across six generations; complete production is unknown, but 124,027 produced from 1979 to 1991.",124027.0,35.0
+Unknown,Mercury Cougar,1967-1997 1999-2002,"2,972,784 across seven generations. Best-selling and second-longest produced Mercury nameplate. (Excludes Ford Cougar sold in Europe and Australia).",2972784.0,31.0
+Unknown,Mercury Cyclone,1964-1972,"77,547 across five generations. Includes Cyclone GTs, Spoilers, and Cobra Jets.",77547.0,9.0
+Unknown,Mercury Grand Marquis,1983–2011,"Approximately 2,430,000 produced in four generations (excluding 270,000 1975–82 Grand Marquis built as part of the Marquis series); the longest-running Mercury nameplate and best-selling Mercury sedan.[24][25][352]",2430000.0,29.0
+Unknown,Mercury Marauder,2003-2004,"11,052 in a single generation. Production of unrelated 1963 1/2-1965 and 1969-1970 Mercury Marauder is unknown.",11052.0,2.0
+Unknown,Mercury Mariner,2005-2010,"200,961 in two generations. Approximately 12,300 Mercury Mariner Hybrids produced.",200961.0,6.0
+Unknown,Mercury Milan,2006-2011,"166,126 in a single generation.",166126.0,6.0
+Unknown,Mercury Monarch,1975–80,"575,567 in a single generation.[211]",575567.0,
+Unknown,Mercury Montego,1968-1974 2005-2007,"Produced across three generations. 63,068 produced from 2005 to 2007.",63068.0,7.0
+Unknown,Mercury Monterey,1952–74,"Approximately 1,910,000 in seven generations (excluding early Montereys produced as part of the Mercury Eight series, but including Monterey Custom and Monterey S-55).[24]",1910000.0,
+Unknown,Mercury Monterey (minivan),2004-2007,"32,953 in a single generation.",32953.0,4.0
+Unknown,Mercury Mountaineer,1997-2010,"510,276 across three generations.",510276.0,14.0
+Unknown,Mercury Sable,1986–2005 2008-2009,"2,112,374 built during the first four generations through 2005.[218] (32,846 built in final 2008-2009 generation)",2112374.0,20.0
+Unknown,Mercury Turnpike Cruiser,1957-1958,"23,268 in a single generation.[353]",23268.0,2.0
+Unknown,Mercury Villager,1993-2002,"Produced across two generations. Complete production is unknown; 114,246 produced from 1999 to 2002",114246.0,10.0
+Unknown,Messerschmitt KR175,1953–55,"15,089 in a single generation.[354]",15089.0,
+Unknown,Messerschmitt KR200,1955–1964,"30,286 in a single generation, best selling Messerschmitt.[355]",30286.0,10.0
+Unknown,Metropolitan,1958–61,"55,215 as a separate marque under AMC.[citation needed]",55215.0,
+Unknown,MG F and TF,1995–2005 2007–2011,"118,055.[40][356]",118055.0,11.0
+Unknown,MG MGB,1962–80,"514,852 made in coupe and roadster variations. The bestselling two-seater sports car prior to the Mazda MX-5.[40]",514852.0,
+Unknown,MG Midget,1961–80,"224,473 made in coupe and roadster variations.[40]",224473.0,
+Unknown,MG XPower SV,2003–2005,"Rebodied Qvale Mangusta, 82 in a single generation.[357]",82.0,3.0
+Unknown,Mini,1959–2000,"The bestselling British-made car; 5,505,874 in a single design.[187]",5505874.0,42.0
+Unknown,Mitsubishi Carisma,1995–2004,"Over 350,000 in nine years.[358]",350000.0,10.0
+Unknown,Mitsubishi Galant,1969–2012,"Estimated to be over 5,000,000 in nine generations; up to 1997, 4.9 million were sold.[359]",5000000.0,44.0
+Unknown,Mitsubishi GTO,1991–99,"Known in export countries as the Mitsubishi 3000GT, 79,536 over two generations.[122][360]",3000.0,
+Unknown,Mitsubishi Lancer,1973–2017,"Over 6,000,000 in the first seven generations to the end of 2006.[361]",6000000.0,45.0
+Unknown,Mitsubishi L200,1978–present,"Over 2,800,000 in the first three generations[362]",2800000.0,49.0
+Unknown,Mitsubishi Outlander P-HEV,2013–present,"300,000 through January 2022.[363]",300000.0,14.0
+Unknown,Mitsubishi Pajero,1982–2021,"Also known as the Montero and Shogun in various export markets; approximately 2,500,000 of the first three generations.[364]",2500000.0,40.0
+Unknown,Morris Ital,1980–84,"Reengineered Morris Marina, 175,276 of a single generation.[40]",175276.0,
+Unknown,Morris Marina,1971–80,"1,163,116 of a single generation.[40]",1163116.0,
+Unknown,Morris Minor,1948–71,"1,368,291 in a single generation of saloons, estates, vans, pickup trucks and convertibles.[365]",1368291.0,
+Unknown,Nash Statesman,1950–56,"Nash's best selling nameplate; approximately 340,000 built over two generations.[24]",340000.0,
+Unknown,Nissan Be-1,1987,"10,000 in a single generation.[366]",10000.0,
+Unknown,Nissan S-Cargo,1989–92,"12,000 in a single generation.[367]",12000.0,
+Unknown,Nissan Figaro,1991,"20,000 in a single generation.[368]",20000.0,
+Unknown,Nissan Leaf,2010–present,"Listed as the world's best selling highway-capable plug-in electric car of all-time until early January 2020.[369]  Global sales of 550,000 units through October 2021.[370]",2020.0,17.0
+Unknown,Nissan Maxima,1981–2023,"1,700,000 in the first five generations up to 2001.[371]",1700000.0,43.0
+Unknown,Nissan Micra,1982–2023,"European version the Nissan March; 2,368,704 units built by UK plant in Sunderland between 10 August 1992 to 16 July 2010.[372][373]",2368704.0,42.0
+Unknown,Nissan Qashqai/Rogue Sport,2006–present,"Over 3,155,000 sold to 2006 in Europe, Russia and China to June 2017 in two generations.[374][375]",3155000.0,21.0
+Unknown,Nissan Tiida/Versa,2004–2023,"1,000,715 between September 2004 and March 2008.[376]",1000715.0,20.0
+Unknown,Nissan Sunny/Sentra/Pulsar/Almera,1966–present,"Over 15,900,000 in ten generations.[277]",15900000.0,61.0
+Unknown,Nissan Z-cars,"1969–99, 2003–present","1,535,000 in five generations up to 2005; Bestselling sports car series in automotive history.[377]",1535000.0,35.0
+Unknown,Oldsmobile Aurora,1995–2003,"208,011 across two generations.",208011.0,9.0
+Unknown,Oldsmobile Cutlass,1961–99,"11,900,000 across several platforms and generations.[378]",11900000.0,
+Unknown,Oldsmobile 88,1949–99,"Oldsmobile's second longest running nameplate and best selling full-size nameplate; approximately 8,800,000 in ten generations.[24][25]",8800000.0,
+Unknown,Opel Ascona,1970–88,"4,400,000 in three generations, including the UK-market Vauxhall Cavalier, and the South African-market Chevrolet Ascona.[379]",4400000.0,
+Unknown,Opel Astra,1991–present,"Over 10,000,000 in three generations. Sold as Vauxhall Astra in the United Kingdom.[380]",10000000.0,36.0
+Unknown,Opel Corsa,1982–present,"Over 18,000,000 sold worldwide in 25 years and in 4 generations. 10 million of them were sold only in Europe. Sold in the UK as the Vauxhall Corsa (the first generation version was sold as Vauxhall Nova)[381]",18000000.0,45.0
+Unknown,Opel Vectra,1988–2008,"4,500,000 in the first two generations up to 2002, also including UK sales as the Vauxhall Cavalierthen as Vauxhall Vectra.[379]",4500000.0,21.0
+Unknown,Oreca 07,2017–2022,"99 chassis. Numbers accounts for 8 Acura ARX-05, 9 updates of the Oreca 05 and the re-named but identical Alpine LMP2s and Aurus 01s but excludes the Rebellion R13.[382][383][384]",99.0,6.0
+Unknown,Packard Eight,1933–36 1938 1942 1948–50,"Packard's best selling nameplate; approximately 250,000 built over five generations.[24][84]",250000.0,6.0
+Unknown,Pagani Huayra,2012–present,100 reported sales over one generation.[385],100.0,15.0
+Unknown,Panoz Esperante,1997 2000–2007 2014–2015,330 road cars built over one generation to end of 2006.[nb 1][386],330.0,4.0
+Unknown,Panoz Roadster,1992–1995 1996–1999,220 built over one generation.[387],220.0,4.0
+Unknown,Peel P50,1962–65,47 over one generation.[388],47.0,
+Unknown,Peel Trident,1965–66,82 over one generation.[389],82.0,
+Unknown,Peugeot 204,1965–76,"1,604,296 in a single generation.[390]",1604296.0,
+Unknown,Peugeot 205,1983–98,"A total of 5,278,050 in a single generation.[391]",5278050.0,
+Unknown,Peugeot 206,1998–2013,"Over 10,000,000 in a single generation to 2019; PSA Peugeot Citroën's bestselling car.[392]",10000000.0,16.0
+Unknown,Peugeot 504,1968–2006,"More than 3,000,000 built in France, Argentina, China, Kenya and Nigeria.[393]",3000000.0,39.0
+Unknown,Peugeot 406 coupé,1997–2004,"107,631[394] built in Italy (San Giorgio Canavese).",107631.0,8.0
+Unknown,Plymouth Fury,1959–78,"Plymouth's best selling nameplate and longest lasting car nameplate; approximately 3,680,000 in seven generations (counting VIPs, but not counting 1959 and 1962 Sport Furys and 1975–77 Gran Furys).[24][25]",3680000.0,
+Unknown,Plymouth/Chrysler Prowler,1997 1999–2002,"10,218 in a single generation between the two marques.[395]",10218.0,3.0
+Unknown,Dodge Aries/Plymouth Reliant,1981–89,"Known as the 'K-cars' after their common platform; 1,114,618 in a single generation between the two marques.[121]",1114618.0,
+Unknown,Plymouth Voyager,1974–2000,"Plymouth's longest lasting nameplate and best selling truck nameplate; approximately 2,280,000 in four generations from 1974 to 1976 and from 1987 to 1999. (Including Grand Voyager. Sales for 1977–86 and 2000 are unknown, although a reasonable guess is about 500,000 total.)[104]",2280000.0,27.0
+Unknown,Pontiac Astre,1975–77,"147,773 in a single generation.[103]",147773.0,
+Unknown,Pontiac Aztek,2000–07,"119,692 in a single generation.[396][397][398][399][400][401]",119692.0,
+Unknown,Pontiac Bonneville,1958–2005,"Pontiac's longest running and best selling full-size nameplate; approximately 3,460,000 in ten generations not counting those part of the earlier Star Chief line and those made from 1999 to 2005. (Production for 1999–2005 is unknown but a good guess places it at about 400,000.)[24][25]",3460000.0,48.0
+Unknown,Pontiac Firebird,1967–2002,"Approximately 2,500,000 in four generations.[402]",2500000.0,36.0
+Unknown,Pontiac Grand Am,1973–75 1978–80 1985–2006,"Pontiac's bestselling nameplate; over 4,000,000 in five generations.",4000000.0,6.0
+Unknown,Porsche 356,1948–65,"76,313 in a single generation.[403]",76313.0,
+Unknown,Porsche 550,1953–56,90 in a single generation.[404],90.0,
+Unknown,Porsche 911,1963–present,"1,000,000th produced in May 2017.[405]",1000000.0,64.0
+Unknown,Porsche 904,1964–65,106 in a single generation.[406],106.0,
+Unknown,Porsche 906,1966–67,65 in a single generation.[407][408],65.0,
+Unknown,Porsche 908,1968–71,"69 in 4 body variations; accounting for 22 908K Coupe,[409] 10 908L Coupe,[410] 24 908/02 Spyder, 13 908/03[411][412]",69.0,
+Unknown,Porsche 914,1969–76,"118,978 in a single generation.[413]",118978.0,
+Unknown,Porsche 917,1969–73,"65 in total accounting for 25 regular 1969 917, 9 917K, 9 917LH, 1 Spyder, 3 917PA, 13 917/10, 1 917/20, 6 917/30[414][415]",65.0,
+Unknown,Porsche 924,1976–88,"152,081 in a single generation.[416]",152081.0,
+Unknown,Porsche 928,1978–95,"61,056 in a single generation.[417]",61056.0,
+Unknown,Porsche 944,1982–91,"163,192 in a single generation.[418]",163192.0,
+Unknown,Porsche 956,1982–84,"28 in a single design, accounting for 10 factory team cars, and 18 customer cars.[419][420][421]",28.0,
+Unknown,Porsche 962,1984–92,"93 in total, accounting for 16 factory team cars, and 77 customer cars, overall number also account for cars upgraded from its 956 predecessors and cars rebuilt from previously wrecked cars and subsequently allocated new chassis numbers.[419][422][423]",93.0,
+Unknown,Porsche 959,1987-89,Variant of the 911. 337 in single design accounting for racing cars.[424],911.0,
+Unknown,Porsche 968,1992–95,"12,776[425]",12776.0,
+Unknown,Porsche Boxster,1996–present,"Over 200,000 produced over two generations (2008).[426]",200000.0,31.0
+Unknown,Porsche Cayenne,2002–present,"65,660 up to 2011 in two generations.[427]",65660.0,25.0
+Unknown,Porsche Carrera GT,2004–06,"1,270 in a single generation.[428]",1270.0,
+Unknown,Porsche Panamera,2009–present,"Total of 164,503 1st generations built in 2016[429]",164503.0,18.0
+Unknown,Porsche 918,2013–15,918 in a single generation.[430],918.0,
+Unknown,Porsche Macan,2014–present,"350,000 to 2018[431]",350000.0,13.0
+Unknown,Rambler Classic,1961–66,"Rambler's best selling nameplate; approximately 1,460,000 in two generations including those produced in 1966 under American Motors.[24][25]",1460000.0,
+Unknown,Renault 4,1961–92,"Over 8,000,000 of a single design.[432] Ninth best selling automobile platform in history.",8000000.0,
+Unknown,Renault 4CV,1947–61,"1,105,547 of a single design; the first French car to achieve more than one million sales.[433]",1105547.0,
+Unknown,Renault Dauphine,1956–67,"2,150,738 of a single design; Dauphines were produced in its production run of 10 years.[434]",2150738.0,
+Unknown,Renault 5,1972–96,"5,471,709 in two generations.[187]",5471709.0,
+Unknown,Renault Clio,1991–present,"The bestselling French car; 8,535,280 in the first two generations up to 2005.[435]",8535280.0,36.0
+Unknown,Renault Sport Spider,1996–1999,"1,685 in a single generation.[436]",1685.0,4.0
+Unknown,Renault Twingo,1993–present,"Over 2,400,000 of the monobox city car designed by Patrick le Quément.[437]",2400000.0,34.0
+Unknown,Renault Twizy,2012–2023,"21,874 sold through December 2018.[438][439]",21874.0,12.0
+Unknown,Renault Zoe,2012–2024,"170,700 worldwide through December 2019.[106]",170700.0,13.0
+Unknown,Rover 8,1904–1912,"2,200[440]",2200.0,9.0
+Unknown,Rover 6,1905–1912,"2,296[440]",2296.0,8.0
+Unknown,Rover 25,1999–2005,"227,934 made in a single generation. Sold in hatchback variation.[40]",227934.0,7.0
+Unknown,Rover 45,1999–2005,"147,457 made in a single generation. Sold in saloon and hatchback variations.[40]",147457.0,7.0
+Unknown,Rover 75,1999–2005,"238,324 made in a single generation. Sold in saloon and tourer variations. Also called the MG ZT and MG 7.[40]",238324.0,7.0
+Unknown,Rover 800,1986–1999,"317,126 made in two generations.[40]",317126.0,14.0
+Unknown,Saab 900,1978–93,"Saab's bestseller; 908,810 in a single generation of sedans, hatchbacks and convertibles.[441]",908810.0,
+Unknown,Saleen S7,2000–09,"Saleen's only production car; 78 in a single generation, also include 21 Twin Turbo models and 20 racing cars.[442]",78.0,
+Unknown,Saturn S-Series,1991–2002,"Saturn's longest lasting and bestselling nameplate; approximately 2,210,000 over two generations not counting 2002 (sales of 2002 are unknown).[443]",2210000.0,12.0
+Unknown,SEAT Ibiza,1984–present,"3,949,597 up to 2008, SEAT's bestselling car in four generations; the sales of the fourth generation are not included, nor those of its derivatives (such as the sedan or its rebadged versions).[444]",3949597.0,43.0
+Unknown,Simca 1000,1961–78,"1,935,098.[445]",1935098.0,
+Unknown,Simca 1100,1967–85,"2,139,400, including a small amount of CKD kits and commercial versions; in later years the vehicle was sold as the Talbot-Simca 1100.[445]",2139400.0,
+Unknown,Škoda Octavia,1996–present,"Over 4,000,000 to 2013.[446]",4000000.0,31.0
+Unknown,Studebaker Champion,1939–42 1946–58,"Studebaker's best selling nameplate; approximately 1,320,000 built over three generations.[24][84]",1320000.0,8.0
+Unknown,Smart Fortwo,1998–,"Over 1,500,000 by mid-2013.[447] Best and longest selling Smart nameplate.",1500000.0,
+Unknown,Smart Roadster,2003–2006,"43,091 in a single generation.[448]",43091.0,4.0
+Unknown,Spectre R42,1995–1998,23 in a single generation[449],23.0,4.0
+Unknown,SS 1,1932–1936,624 in a single generation.[450],624.0,5.0
+Unknown,SS100,1935–39,309 in a single generation.[451],309.0,
+Unknown,Subaru 360,1958–1971,"392,000 in a single generation.[452]",392000.0,14.0
+Unknown,Subaru Alcyone,1985–1996,"123,297 altogether, accounting for 98,918 first generation (known worldwide as XT)[453] and 24,379 2nd generation SVX.[454]",123297.0,12.0
+Unknown,Subaru Legacy,1988–2025,"Over 3,000,000 in four generations to 2005, including Australian sales as the Subaru Liberty.[455]",3000000.0,38.0
+Unknown,Suzuki Cappuccino,1991–97,"28,010 in one generation[456]",28010.0,
+Unknown,Suzuki Jimny,1970–present,"over 3,000,000 to 2021[457]",3000000.0,57.0
+Unknown,Suzuki Wagon R,1993–present,"Japan's bestselling kei car; over 5,000,000 in four generations till February 2010.[458]",5000000.0,34.0
+Unknown,Suzuki Swift,2004–present,"over 4,000,000 from 2004 to 2014, about half of that sold in India[459]",4000000.0,23.0
+Unknown,Tatuus FR2000,2000-2007,930 chassis built.[460][461] Exclusively used as spec chassis in various Formula Renault 2.0 championships. Best selling Tatuus.,930.0,8.0
+Unknown,Tatuus F4-T014,2014–present,250 chassis produced as of 2019.[462] Exclusively used as spec chassis in various Formula 4 championships.,250.0,13.0
+Unknown,Tatuus MSV F4-016,2014–present,Variation of F4-T014. 30 chassis produced as of 2019.[462],4.0,13.0
+Unknown,Tatuus USF-17,2017–present,Variation of F4-T014. 40 chassis produced as of 2019.[462],4.0,10.0
+Unknown,Tatuus PM-18,2018–present,Variation of F4-T014. 40 chassis produced as of 2019.[462],4.0,9.0
+Unknown,Tatuus FT-50,2015–present,Known as Toyota FT-50. 26 chassis produced as of 2019.[462],50.0,12.0
+Unknown,Tatuus F.3 T318,2018–present,220 chassis produced as of 2019[462],220.0,9.0
+Unknown,Tesla Model 3,2017–present,"~525,000 as of March 2020[369][463]",525000.0,10.0
+Unknown,Tesla Model S,2012–present,"~281,100 through December 2019.[106]",281100.0,15.0
+Unknown,Tesla Model X,2015–present,"~121,000 through December 2018.[90][464]",121000.0,12.0
+Unknown,Tesla Roadster,2008–2012,"~2,500 in a single generation.[465]",2500.0,5.0
+Unknown,Toyota 2000GT,1967–70,337 in a single generation.[466],337.0,
+Unknown,Toyota 86/Scion FR-S/Subaru BRZ,2012–present,"54,313 US sales (as Scion FR-S) in a single generation.[467]",54313.0,15.0
+Unknown,Toyota Camry,1983–present,"Over 21,000,000 in ten generations.[468]",21000000.0,44.0
+Unknown,Toyota Celica,1971–2006,"4,129,626 in seven generations.[469]",4129626.0,36.0
+Unknown,Toyota Corolla,1966–present,More than 50 million over 12 generations as of August 2021.[470],50.0,61.0
+Unknown,Toyota Curren,1994–1998,"Over 42,000 in a single generation at Tahara plant.[471]",42000.0,5.0
+Unknown,Toyota Hilux,1968–present,"Over 16,000,000 in seven generations to 2015.[472][473]",16000000.0,59.0
+Unknown,Toyota Ipsum,1995–2009,"223,644 to 2000 at Motomachi plant (1996-2000), Over 151,000 in two generations to at Tahara plant (2000-2004).[471]",223644.0,15.0
+Unknown,Toyota Land Cruiser,1951–present,"Over 5,000,000 in five generations to 2009.[474][475]",5000000.0,76.0
+Unknown,Toyota Mirai,2015–present,"2,840 units by mid-February 2017.in Japan, the United States, Europe and United Arab Emirates.[476]",2840.0,12.0
+Unknown,Toyota Prius,1997–present,"The Prius family nameplate has sold over 6 million units through January 2017.[477] The Prius liftback model alone has sold 5 million units in four generations through September 2022.[478] As of January 2017, the Toyota Aqua/Prius c sales totaled 1,380,100 units, and the Prius v sales totaled 671,200 units.[477] Both generations of the Toyota Prius Plug-in Hybrid variant have sold 209,000 units worldwide through December 2019.[106]",6.0,30.0
+Unknown,Toyota RAV4,1994–present,"535,205 to 2000 at Motomachi plant.[479]",535205.0,33.0
+Unknown,Toyota Soarer/Lexus SC,1991-1997,"139,020 Z30 models until production was transferred to Kanto Auto Works.[479]",139020.0,7.0
+Unknown,Toyota Sports 800,1965–69,"3,131 a single generation.[480]",3131.0,
+Unknown,Toyota Stout/Toyopet RK,1954–1989,"Over 51,000 between 1979 and 1983 at Tahara plant.[471]",51000.0,36.0
+Unknown,Toyota Supra,1986–2002,"180,000 A70 units from 1986 to 1992 390,208 A80 units from 1993 to 1997 .[479][481]",180000.0,17.0
+Unknown,Trabant,1957–91,"Over 3,000,000 built by VEB Sachsenring in Zwickau, Saxony until the reunification of Germany led to the closure of the factory.[482]",3000000.0,
+Unknown,Vauxhall Viva,1963–1979,"1,501,353 in three generations.[483][484][485]",1501353.0,17.0
+Unknown,Vector W8,1989–1993,"17 delivered to customers before the company underwent a management takeover and changes were made to the car, thus becoming the M12.[486]",17.0,5.0
+Unknown,Vector M12,1995–1999,18 produced in total before the company ceased to exist.[486],18.0,5.0
+Unknown,Volkswagen Beetle,1938–2003,"21,529,464; the bestselling single design in history, and the first car to reach twenty million sales.[487]",21529464.0,66.0
+Unknown,Volkswagen Gol,1980–2023,"Brazil's bestselling car for 27 consecutive years; over 8,000,000 in three generations.[488]",27.0,44.0
+Unknown,Volkswagen Golf,1974–present,"Became Volkswagen's bestseller in 2002; 30,000,000 by mid June 2013 in six generations.[489]",2002.0,53.0
+Unknown,Volkswagen Jetta,1980–present,"Sedan version of the Volkswagen Golf; over 6,600,000 in five generations up to August 2005.[490]",6600000.0,47.0
+Unknown,Volkswagen Passat,1973–present,"Over 15,000,000 in six generations.[491]",15000000.0,54.0
+Unknown,Volkswagen Polo,1975–present,"Over 14,000,000 in six generations.[492]",14000000.0,52.0
+Unknown,Volvo PV444/544,1944–1965,"444,000 in a single generation.[493]",444000.0,22.0
+Unknown,Volvo Duett,1949–1969,"101,492 in a single generation.[493]",101492.0,21.0
+Unknown,Volvo Amazon,1956–1970,"655,241 in a single generation.[493]",655241.0,15.0
+Unknown,Volvo P1800,1961–1973,"47,855.[493]",47855.0,13.0
+Unknown,Volvo 140,1966–1974,"1,252,371 in a single generation.[493]",1252371.0,9.0
+Unknown,Volvo 164,1968–1975,"144,179 in a single generation.[493]",144179.0,8.0
+Unknown,Volvo 200 series,1974–1993,"2,862,573 in a single generation; the bestselling car built in Sweden.[493]",2862573.0,20.0
+Unknown,Volvo 300 series,1976–1991,"1,086,405 in a single generation.[493]",1086405.0,16.0
+Unknown,Volvo 700 series,1982–1992,"1,239,222 in a single generation.[493]",1239222.0,11.0
+Unknown,Volvo 850,1991–1996,"716,903 in a single generation.[493]",716903.0,6.0
+Unknown,Volvo S40/V40,1995–2004,"1,000,034 in a single generation.[493]",1000034.0,10.0
+Unknown,Volvo V70/XC70,1996–2016,"1,381,488 in three generations.",1381488.0,21.0
+Unknown,Willys 77,1933–36,"Willys' best selling nameplate; approximately 68,000 sold in one generation.[494]",68000.0,
+Unknown,Yugo,1977-2008,"794,428 produced, with 141,651 exported to the United States from 1985 to 1992.",794428.0,32.0
+Unknown,ZAZ 965 Zaporozhets,1960–69,322 106 built at ZAZ in the Ukrainian SSR.[495],322.0,
+Unknown,Zastava Skala,1971-2008,"1,273,532 built at Zastava Auto in Serbia.",1273532.0,38.0

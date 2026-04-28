@@ -1,0 +1,7 @@
+Dataset Description:
+
+The dataset for this project will be collected from Wikipedia by scraping structured tables related to automobile sales. The primary source will be the List of automobile sales by model page, which provides information such as car model names, manufacturers, production periods, and total units sold. A secondary dataset from the List of best selling automobiles page may also be used to supplement and verify the data.
+
+I chose this dataset because it contains clear numerical variables that are suitable for data analysis and visualization. The dataset allows for exploration of relationships such as how production duration impacts total sales and how different manufacturers perform in terms of overall sales. Additionally, the automotive industry is a relevant and interesting topic, making the analysis more engaging.
+
+In this project, I plan to scrape the data using Python, clean and organize it into a usable format, and create visualizations such as scatter plots and bar charts. I expect to analyze trends between production years and sales, compare manufacturers, and identify the most successful car models. While the final analysis may evolve, this dataset provides a strong foundation for meaningful insights and visual exploration.
