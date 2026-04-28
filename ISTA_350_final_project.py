@@ -69,7 +69,12 @@ def scrape_car_sales_data():
             temp = table.copy()
 
             if "Manufacturer" not in temp.columns:
-                temp["Manufacturer"] = "Unknown"
+                temp["Manufacturer"] = (
+                    temp["Automobile"]
+                    .astype(str)
+                    .str.extract(r"^(\S+)", expand=False)
+                    .fillna("Unknown")
+                )
 
             if "Production" not in temp.columns:
                 temp["Production"] = np.nan
