@@ -1,4 +1,4 @@
-roject Title: Car Sales Data Analysis Using Web Scraping
+Project Title: Car Sales Data Analysis Using Web Scraping
 
 Group Members:
 Bolor-Erdene Altanmunkh
