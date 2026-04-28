@@ -13,6 +13,7 @@ OUTPUTS:
 """
 
 
+import os
 import re
 import matplotlib.ticker as mticker
 import numpy as np
@@ -22,6 +23,7 @@ import statsmodels.api as sm
 
 
 URL = "https://en.wikipedia.org/wiki/List_of_automobile_sales_by_model"
+DIR = os.path.dirname(os.path.abspath(__file__))
 
 
 def clean_sales(value):
@@ -46,6 +48,13 @@ def clean_production_years(value):
         return np.nan
 
     text = str(value)
+
+    normalized = text.replace("\u2013", "-").replace("\u2014", "-")
+    abbreviated = re.search(r"(\d{4})-(\d{2})(?!\d)", normalized)
+    if abbreviated:
+        start = int(abbreviated.group(1))
+        end = int(abbreviated.group(1)[:2] + abbreviated.group(2))
+        return end - start + 1
 
     years = re.findall(r"\d{4}", text)
 
@@ -105,7 +114,7 @@ def plot_top_10_sales(df):
     plt.gca().invert_yaxis()
     plt.gca().xaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f"{int(x):,}"))
     plt.tight_layout()
-    plt.savefig("car_sales_top10.png", dpi=300)
+    plt.savefig(os.path.join(DIR, "car_sales_top10.png"), dpi=300)
     plt.show()
 
 
@@ -148,7 +157,7 @@ def plot_duration_vs_sales(df):
 
     plt.gca().yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f"{int(x):,}"))
     plt.tight_layout()
-    plt.savefig("car_sales_duration_vs_sales.png", dpi=300)
+    plt.savefig(os.path.join(DIR, "car_sales_duration_vs_sales.png"), dpi=300)
     plt.show()
 
 
@@ -169,7 +178,7 @@ def plot_manufacturer_average_sales(df):
     plt.gca().invert_yaxis()
     plt.gca().xaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f"{int(x):,}"))
     plt.tight_layout()
-    plt.savefig("car_sales_manufacturer_avg.png", dpi=300)
+    plt.savefig(os.path.join(DIR, "car_sales_manufacturer_avg.png"), dpi=300)
     plt.show()
 
 
@@ -179,7 +188,7 @@ def main():
     print("Scraped rows:", len(df))
     print(df.head())
 
-    df.to_csv("cleaned_car_sales_data.csv", index=False)
+    df.to_csv(os.path.join(DIR, "cleaned_car_sales_data.csv"), index=False)
 
     plot_top_10_sales(df)
     plot_duration_vs_sales(df)
