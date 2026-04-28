@@ -14,6 +14,7 @@ OUTPUTS:
 
 
 import re
+import matplotlib.ticker as mticker
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -24,15 +25,18 @@ URL = "https://en.wikipedia.org/wiki/List_of_automobile_sales_by_model"
 
 
 def clean_sales(value):
-    """Extract the first large number from the Sales column."""
+    """Extract the sales figure from the Sales column, preferring comma formatted numbers."""
     if pd.isna(value):
         return np.nan
 
-    text = str(value).replace(",", "")
-    match = re.search(r"\d+", text)
-
+    text = str(value)
+    match = re.search(r"\d{1,3}(?:,\d{3})+", text)
     if match:
-        return int(match.group())
+        return int(match.group().replace(",", ""))
+
+    plain = re.search(r"\d+", text)
+    if plain:
+        return int(plain.group())
     return np.nan
 
 
@@ -69,12 +73,7 @@ def scrape_car_sales_data():
             temp = table.copy()
 
             if "Manufacturer" not in temp.columns:
-                temp["Manufacturer"] = (
-                    temp["Automobile"]
-                    .astype(str)
-                    .str.extract(r"^(\S+)", expand=False)
-                    .fillna("Unknown")
-                )
+                temp["Manufacturer"] = (temp["Automobile"].astype(str).str.extract(r"^(\S+)", expand=False).fillna("Unknown"))
 
             if "Production" not in temp.columns:
                 temp["Production"] = np.nan
@@ -86,6 +85,7 @@ def scrape_car_sales_data():
 
     df["Sales_clean"] = df["Sales"].apply(clean_sales)
     df["Production_years"] = df["Production"].apply(clean_production_years)
+
 
     df = df.dropna(subset=["Sales_clean"])
     df = df[df["Sales_clean"] > 0]
@@ -101,8 +101,9 @@ def plot_top_10_sales(df):
     plt.barh(top10["Automobile"], top10["Sales_clean"])
     plt.xlabel("Total Sales (vehicles)")
     plt.ylabel("Automobile Model")
-    plt.title("Top 10 Best-Selling Automobile Models on Wikipedia")
+    plt.title("Top 10 Best selling automobile models ")
     plt.gca().invert_yaxis()
+    plt.gca().xaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f"{int(x):,}"))
     plt.tight_layout()
     plt.savefig("car_sales_top10.png", dpi=300)
     plt.show()
@@ -126,10 +127,6 @@ def plot_duration_vs_sales(df):
 
     regression_line = intercept + slope * x
 
-    print("\nRegression Analysis: Production Duration vs Total Sales")
-    print("------------------------------------------------------")
-    print(f"Slope: {slope:,.2f}")
-    print(f"Intercept: {intercept:,.2f}")
     print(f"R-squared: {r_squared:.4f}")
     print(f"P-value: {p_value:.6f}")
 
@@ -149,6 +146,7 @@ def plot_duration_vs_sales(df):
         f"R² = {r_squared:.3f}, p = {p_value:.4f}"
     )
 
+    plt.gca().yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f"{int(x):,}"))
     plt.tight_layout()
     plt.savefig("car_sales_duration_vs_sales.png", dpi=300)
     plt.show()
@@ -165,10 +163,11 @@ def plot_manufacturer_average_sales(df):
 
     plt.figure(figsize=(12, 7))
     plt.barh(manufacturer_sales.index, manufacturer_sales.values)
-    plt.xlabel("Average Sales per Model (vehicles)")
+    plt.xlabel("Average sales per model (number of vehicles)")
     plt.ylabel("Manufacturer")
-    plt.title("Top 10 Manufacturers by Average Model Sales")
+    plt.title("Top 10 Manufacturers by Average sales per model")
     plt.gca().invert_yaxis()
+    plt.gca().xaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f"{int(x):,}"))
     plt.tight_layout()
     plt.savefig("car_sales_manufacturer_avg.png", dpi=300)
     plt.show()
